@@ -1,0 +1,1 @@
+Add this product's photos in this folder. Rename them 1.jpg, 2.jpg, 3.jpg (or update images in src/data/products.js).
